@@ -1,7 +1,7 @@
 {
-    "name": "Ultraviolet App",
-    "description": "Node.js Ultraviolet instance",
+    "name": "Sonny unblock",
+    "description": "Sunny unblocker",
     "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
+    "logo": "https://v2-ggvickproxy.herokuapp.com/logo.png",
     "keywords": ["tomp", "ultraviolet"]
 }
